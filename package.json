@@ -1,0 +1,25 @@
+{
+  "name": "auth-login",
+  "version": "1.0.0",
+  "description": "login system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "OAuth-system"
+  },
+  "author": "Sirojiddinov",
+  "license": "ISC",
+  "dependencies": {
+    "cookie-session": "^2.0.0-beta.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.7",
+    "passport": "^0.4.0",
+    "passport-facebook": "^3.0.0",
+    "passport-google-oauth20": "^1.0.0",
+    "passport-kakao": "0.0.5"
+  }
+}
