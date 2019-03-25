@@ -17,7 +17,7 @@ unobtrusively integrated into any application or framework that supports
 [![npm](https://img.shields.io/npm/v/passport-facebook.svg)](https://www.npmjs.com/package/passport-facebook)
 [![build](https://img.shields.io/travis/jaredhanson/passport-facebook.svg)](https://travis-ci.org/jaredhanson/passport-facebook)
 [![coverage](https://img.shields.io/coveralls/jaredhanson/passport-facebook.svg)](https://coveralls.io/github/jaredhanson/passport-facebook)
-[...](https://github.com/jaredhanson/passport-facebook/wiki/Status)
+[...](https://github.com/Aziiiz/Authentication-with-Passport.js/wiki/Status)
 
 ## Install
 
@@ -25,7 +25,7 @@ unobtrusively integrated into any application or framework that supports
 
 
 
-# passport-facebook
+# passport-kakao
 
 [Passport](http://passportjs.org/) strategy for authenticating with [Facebook](http://www.facebook.com/)
 using the OAuth 2.0 API.
@@ -42,7 +42,7 @@ unobtrusively integrated into any application or framework that supports
 [![npm](https://img.shields.io/npm/v/passport-facebook.svg)](https://www.npmjs.com/package/passport-facebook)
 [![build](https://img.shields.io/travis/jaredhanson/passport-facebook.svg)](https://travis-ci.org/jaredhanson/passport-facebook)
 [![coverage](https://img.shields.io/coveralls/jaredhanson/passport-facebook.svg)](https://coveralls.io/github/jaredhanson/passport-facebook)
-[...](https://github.com/jaredhanson/passport-facebook/wiki/Status)
+[...](https://github.com/Aziiiz/Authentication-with-Passport.js/wiki/Status)
 
 ## Install
 
